@@ -10,7 +10,7 @@ The project covers data loading, model architecture, training, evaluation, predi
 ### 1. Fully Connected Neural Network
 - Implemented using PyTorch.
 - Trained on the scikit-learn Digits dataset (8×8 images).
-- Test accuracy: 97.78%.
+- Test accuracy: 94.782.
 
 ### 2. Convolutional Neural Network (CNN)
 - Implemented using PyTorch and torchvision.
